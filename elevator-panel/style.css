@@ -13,3 +13,24 @@
     background: black;
     margin: 0 auto;
 }
+
+#color-indicator {
+    display: block;
+    height: 250px;
+    width: 150px;
+    float: right;
+    margin: 30 30
+
+}
+
+#left-button {
+    height: 80px;
+    width: 80px;
+    background: green;
+}
+
+#right-button {
+    height: 80px;
+    width: 80px;
+    background: red;
+}
